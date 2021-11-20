@@ -12,7 +12,7 @@ use NiuGengYun\EasyTBK\Vip\Osp\Context\InvocationContext;
 /**
  * Class Factory.
  *
- * @method TaoBao taobao()
+ * @method static TaoBao taobao()
  * @method PinDuoDuo pinduoduo()
  * @method JingDong jingdong()
  * @method Vip vip()
